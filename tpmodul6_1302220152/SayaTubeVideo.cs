@@ -14,6 +14,13 @@ namespace tpmodul6_1302220152
 
         public SayaTubeVideo(string title)
         {
+            // kondisi kondisi
+            if (title is null || title.Length > 100) 
+            {
+                throw new ArgumentException("title tidak boleh null dan tidak boleh lebih dari 100 karakter");
+            }
+
+
             this.title = title;
 
             var rd = new Random();
@@ -24,7 +31,19 @@ namespace tpmodul6_1302220152
 
         public void IncreasePlayCount(int playCount)
         {
-            this.playCount += playCount;
+            checked
+            {
+                if (playCount > 10000000) throw new ArgumentException("playcount input harus lebih kecil dari 10000000");
+                try
+                {
+                    this.playCount += playCount;
+                }
+                catch (OverflowException e)
+                {
+                    Console.WriteLine(e.Message);   
+                                                    
+                }
+            }
         }
 
         public void PrintVideoDetails()
