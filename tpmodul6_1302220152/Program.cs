@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var vid = new SayaTubeVideo("Tutorial Design By Contract - [Haidar_Abdul_Halim]");
+            vid.PrintVideoDetails();
         }
     }
 }

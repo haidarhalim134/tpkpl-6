@@ -1,0 +1,15 @@
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\bin\Debug\net8.0\tpmodul6_1302220152.exe
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\bin\Debug\net8.0\tpmodul6_1302220152.deps.json
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\bin\Debug\net8.0\tpmodul6_1302220152.runtimeconfig.json
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\bin\Debug\net8.0\tpmodul6_1302220152.dll
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\bin\Debug\net8.0\tpmodul6_1302220152.pdb
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.AssemblyInfoInputs.cache
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.AssemblyInfo.cs
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.csproj.CoreCompileInputs.cache
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.sourcelink.json
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.dll
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\refint\tpmodul6_1302220152.dll
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.pdb
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\tpmodul6_1302220152.genruntimeconfig.cache
+C:\Users\Dar\source\repos\tpmodul6_1302220152\tpmodul6_1302220152\obj\Debug\net8.0\ref\tpmodul6_1302220152.dll
